@@ -17,12 +17,12 @@ Mettatron is a seemingly simple yet powerful facebook messenger bot.
         In folkloristic tradition, he is the highest of the angels and serves
         as the celestial scribe or "recording angel".
 
-### Current Process:
-- [ ] Reorganize into classes to facilitation order (and hot reloading)
+### Pre-release Workflow:
+- [ ] 1. Reorganize into classes to facilitation order (and hot reloading)
   - [ ] Make dozens of class files and learn how OO works ..
-- [ ] Add sessions to mitigate suspensions
-- [ ] Commit
-- [ ] #machinedivination
+- [ ] 2. Add sessions to mitigate suspensions
+- [ ] 3. Commit
+- [ ] 4. #machinedivination
 
 ## Utilized Modules
 * Chat
