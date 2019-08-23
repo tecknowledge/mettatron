@@ -17,28 +17,4 @@ Mettatron is a seemingly simple yet powerful facebook messenger bot.
         In folkloristic tradition, he is the highest of the angels and serves
         as the celestial scribe or "recording angel".
 
-### Pre-release Workflow:
-- [ ] 1. Reorganize into classes
-  - [ ] Add more debugging
-  - [ ] Make dozens of class files and learn how OO works ..
-  - [ ] Utilize reload()
-- [ ] 2. Add sessions to mitigate suspensions
-- [ ] 3. Commit
-- [ ] 4. #machinedivination
-
-## Utilized Modules
-* Chat
-  * FBChat
-  * Markovify
-  * PyAIML
-  * Chatterbot
-  * pyjokes
-  * fortune
-  
-* Network/database
-  * paho-mqtt
-  * pymongo
-  * influxdb_python
-  * sqlite3
-  * python-twitter
-  * praw (reddit)
+For more information visit the [wiki](//github.com/tecknowledge/mettatron/wiki)
