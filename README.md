@@ -18,8 +18,10 @@ Mettatron is a seemingly simple yet powerful facebook messenger bot.
         as the celestial scribe or "recording angel".
 
 ### Pre-release Workflow:
-- [ ] 1. Reorganize into classes to facilitation order (and hot reloading)
+- [ ] 1. Reorganize into classes
+  - [ ] Add more debugging
   - [ ] Make dozens of class files and learn how OO works ..
+  - [ ] Utilize reload()
 - [ ] 2. Add sessions to mitigate suspensions
 - [ ] 3. Commit
 - [ ] 4. #machinedivination
