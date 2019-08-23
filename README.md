@@ -40,3 +40,5 @@ Mettatron is a seemingly simple yet powerful facebook messenger bot.
   * pymongo
   * influxdb_python
   * sqlite3
+  * python-twitter
+  * praw (reddit)
