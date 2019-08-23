@@ -7,8 +7,6 @@ Mettatron is a seemingly simple yet powerful facebook messenger bot.
 
 ## Origin
 
-# mettatron
-
 Mettā (Pali) means benevolence, loving-kindness, friendliness, amity, good will and active interest in others.
 
 -tron. Used to name various electronic devices.
